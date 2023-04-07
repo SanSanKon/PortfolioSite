@@ -114,6 +114,10 @@ main {
     }
   }
 
+.words-span {
+    color: rgb(241, 237, 6);
+}
+
 .north-span {
     color: rgba(80, 97, 191, 0.823);
 }
