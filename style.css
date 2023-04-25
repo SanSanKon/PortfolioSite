@@ -114,6 +114,10 @@ main {
     }
   }
 
+.store-span {
+    color: #3c5e91;
+}
+
 .words-span {
     color: rgb(241, 237, 6);
 }
