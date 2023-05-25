@@ -114,6 +114,10 @@ main {
     }
   }
 
+.notes-span {
+    color:rgba(237, 43, 104, 0.823)
+}
+
 .store-span {
     color: #3c5e91;
 }
